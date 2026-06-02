@@ -143,7 +143,7 @@ from what the application already does rather than a blank sheet.
 ### Overview
 We credential partner resources per application through completed application blueprints. We want to
 track it so the specific resources staffed on a project are the ones who completed the application
-blueprint.
+blueprint. We must validate that these specific, credentialed resources are staffed on the project.
 
 ### Methods
 - Track completion of application blueprints at the individual level — completing the blueprint is
