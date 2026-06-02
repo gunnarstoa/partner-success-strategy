@@ -42,11 +42,7 @@ Delivery excellence runs along one timeline, from early in the sales cycle throu
 beyond. Project Start is the dividing line: before it, we work through a series of readiness
 checks; after it, we monitor delivery week to week.
 
-```
-◄──── PRE-PROJECT (Sales / Selection Pipeline) ────►│◄──── PROJECT (Execution) ────►│◄── POST-GO-LIVE ──►
- Pipeline ─► approaching Selection ─► Selection→Start│ START ─► Sprints ─► Go-Live   │ Review ─► Adoption
- (light touch; checks intensify toward selection)    │ (weekly cadence w/ CS (+PS))  │ ─► Expansion/Renewal
-```
+![The Delivery Excellence spectrum: pre-project, project, and post-go-live phases along one timeline, divided by Project Start](assets/spectrum.svg)
 
 The closer a deal gets to partner selection, the more detailed and valuable these checks become.
 Early in the pipeline the touch is light; approaching selection there's a readiness gate; from
@@ -202,6 +198,8 @@ The project has officially started when all of these are true:
 4. Client data access granted and provisioned (usually the slowest one)
 5. Kickoff held
 
+![Five conditions — SOW executed, team onboarded, handoff accepted, data access provisioned, kickoff held — all feeding into an official start](assets/project-start-gate.svg)
+
 > Data access is often the biggest source of delay before sprints can begin. Track it on its own,
 > not folded into "kickoff."
 
@@ -285,6 +283,8 @@ playbook start to finish on their own.
 | 2nd | Partner | PS | Partner runs the playbook with PS as safety net and reviewer |
 | 3rd | Partner | PS on call | Partner owns the full playbook; PS available, not embedded |
 
+![Three-project ladder: PS prime then partner prime, with partner independence rising and PS involvement falling](assets/ladder.svg)
+
 ### Methods — what gets transferred
 - The content the partner needs for each phase.
 - The reviews that have to happen (design reviews, gate reviews, go-live readiness).
@@ -306,6 +306,8 @@ Delivery excellence means managing both sides of partner resourcing, not just de
 deals that will need partners. Supply is the credentialed people available to deliver them. We want
 credentialed people ready ahead of demand, so teams are drawn from a prepared bench rather than
 assembled at the last minute. We track both across the portfolio.
+
+![Two lines over time — supply held above demand — with the gap labelled as the credentialed bench ready ahead](assets/capacity.svg)
 
 ### Methods
 - Demand-side monitoring — forecasted projects that will need partner delivery, per application,

@@ -7,6 +7,8 @@
 > **From operational support → to strategic GTM co-delivery.**
 > PSMs partner on how to combine partner strengths with Anaplan capability to drive measurable outcomes.
 
+![Three pillars — 01 Pipeline Generation, 02 Win Rate, 03 Delivery Excellence — under the shift from operational support to strategic GTM co-delivery](assets/pillars.svg)
+
 ---
 
 ## 01 · Pipeline Generation

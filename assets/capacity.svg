@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="380" y="34" fill="#243b53" font-size="16" font-weight="bold" text-anchor="middle">Keep supply ahead of demand</text>
+
+  <!-- axes -->
+  <line x1="70" y1="290" x2="710" y2="290" stroke="#243b53" stroke-width="1.5"/>
+  <line x1="70" y1="290" x2="70" y2="60" stroke="#243b53" stroke-width="1.5"/>
+  <text x="390" y="322" fill="#5b6b7b" font-size="12" text-anchor="middle">Time &#8594;</text>
+  <text x="40" y="175" fill="#5b6b7b" font-size="12" text-anchor="middle" transform="rotate(-90 40 175)">Volume</text>
+
+  <!-- bench-ahead fill (between supply and demand) -->
+  <path d="M70,225 L210,192 L350,158 L490,120 L630,86 L630,118 L490,150 L350,188 L210,220 L70,252 Z" fill="#e6f2ea"/>
+
+  <!-- demand line -->
+  <polyline points="70,252 210,220 350,188 490,150 630,118" fill="none" stroke="#2e6da4" stroke-width="3"/>
+  <circle cx="630" cy="118" r="4" fill="#2e6da4"/>
+  <text x="648" y="122" fill="#2e6da4" font-size="13" font-weight="bold">Demand</text>
+
+  <!-- supply line -->
+  <polyline points="70,225 210,192 350,158 490,120 630,86" fill="none" stroke="#2e8b57" stroke-width="3"/>
+  <circle cx="630" cy="86" r="4" fill="#2e8b57"/>
+  <text x="648" y="90" fill="#2e8b57" font-size="13" font-weight="bold">Supply</text>
+
+  <!-- labels -->
+  <text x="300" y="150" fill="#2e8b57" font-size="12" font-weight="bold">credentialed bench, ready ahead</text>
+
+  <text x="70" y="348" fill="#5b6b7b" font-size="12">Demand = projects that will need partners&#160;&#160;&#183;&#160;&#160;Supply = credentialed people ready to deliver</text>
+</svg>

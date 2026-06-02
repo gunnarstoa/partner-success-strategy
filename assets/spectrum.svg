@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#5b6b7b"/>
+    </marker>
+  </defs>
+  <rect width="960" height="300" fill="#ffffff"/>
+
+  <!-- Phase bands -->
+  <rect x="16" y="18" width="470" height="40" rx="6" fill="#2e6da4"/>
+  <text x="251" y="43" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">PRE-PROJECT &#183; Sales / Selection Pipeline</text>
+
+  <rect x="498" y="18" width="296" height="40" rx="6" fill="#2e8b57"/>
+  <text x="646" y="43" fill="#fff" font-size="15" font-weight="bold" text-anchor="middle">PROJECT &#183; Execution</text>
+
+  <rect x="806" y="18" width="138" height="40" rx="6" fill="#d35400"/>
+  <text x="875" y="43" fill="#fff" font-size="13" font-weight="bold" text-anchor="middle">POST-GO-LIVE</text>
+
+  <!-- Project Start divider -->
+  <line x1="492" y1="12" x2="492" y2="244" stroke="#243b53" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="492" y="262" fill="#243b53" font-size="12" font-weight="bold" text-anchor="middle">PROJECT START</text>
+
+  <!-- Pre-project steps -->
+  <g>
+    <rect x="24" y="96" width="138" height="58" rx="6" fill="#eef2f7" stroke="#2e6da4"/>
+    <text x="93" y="130" fill="#243b53" font-size="13" text-anchor="middle">Pipeline</text>
+    <rect x="178" y="96" width="150" height="58" rx="6" fill="#eef2f7" stroke="#2e6da4"/>
+    <text x="253" y="123" fill="#243b53" font-size="13" text-anchor="middle">Approaching</text>
+    <text x="253" y="139" fill="#243b53" font-size="13" text-anchor="middle">selection</text>
+    <rect x="344" y="96" width="138" height="58" rx="6" fill="#eef2f7" stroke="#2e6da4"/>
+    <text x="413" y="123" fill="#243b53" font-size="13" text-anchor="middle">Selection</text>
+    <text x="413" y="139" fill="#243b53" font-size="13" text-anchor="middle">&#8594; Start</text>
+    <line x1="162" y1="125" x2="176" y2="125" stroke="#5b6b7b" marker-end="url(#arr)"/>
+    <line x1="328" y1="125" x2="342" y2="125" stroke="#5b6b7b" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- Project steps -->
+  <g>
+    <rect x="500" y="96" width="86" height="58" rx="6" fill="#eaf3ee" stroke="#2e8b57"/>
+    <text x="543" y="130" fill="#1f5135" font-size="13" text-anchor="middle">Start</text>
+    <rect x="600" y="96" width="88" height="58" rx="6" fill="#eaf3ee" stroke="#2e8b57"/>
+    <text x="644" y="130" fill="#1f5135" font-size="13" text-anchor="middle">Sprints</text>
+    <rect x="702" y="96" width="90" height="58" rx="6" fill="#eaf3ee" stroke="#2e8b57"/>
+    <text x="747" y="130" fill="#1f5135" font-size="13" text-anchor="middle">Go-Live</text>
+    <line x1="586" y1="125" x2="598" y2="125" stroke="#5b6b7b" marker-end="url(#arr)"/>
+    <line x1="688" y1="125" x2="700" y2="125" stroke="#5b6b7b" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- Post-go-live steps -->
+  <g>
+    <rect x="806" y="96" width="138" height="58" rx="6" fill="#fbede3" stroke="#d35400"/>
+    <text x="875" y="116" fill="#8a3700" font-size="12" text-anchor="middle">Launch review</text>
+    <text x="875" y="132" fill="#8a3700" font-size="12" text-anchor="middle">Adoption</text>
+    <text x="875" y="148" fill="#8a3700" font-size="12" text-anchor="middle">Expansion &amp; renewal</text>
+    <line x1="792" y1="125" x2="804" y2="125" stroke="#5b6b7b" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- Intensity note -->
+  <line x1="24" y1="200" x2="482" y2="200" stroke="#9aa7b4" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="253" y="220" fill="#5b6b7b" font-size="12" text-anchor="middle">Checks intensify toward selection &#8212; more detailed and more valuable the closer we get</text>
+
+  <text x="646" y="220" fill="#5b6b7b" font-size="12" text-anchor="middle">Continuous monitoring: weekly cadence with CS (+PS)</text>
+</svg>
