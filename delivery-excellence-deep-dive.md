@@ -61,7 +61,7 @@ sprint by sprint.
 | 8 | [Post-Go-Live → Expansion](#8-post-go-live--expansion) | Post-go-live | Launch review, training, adoption, expansion |
 | 9 | [Prime/co-prime ladder](#9-prime--co-prime-ladder) | Cross-project | Teaching the playbook across three projects |
 | 10 | [Partner capacity & coverage](#10-partner-capacity--resource-coverage-supply--demand) | Portfolio | Monitor supply and demand; no last-minute staffing |
-| ‖ | [Advisory & change management](#advisory--change-management--a-parallel-service-line) | Parallel — all phases | A distinct service line beyond technical implementation |
+| 11 | [Advisory & change management](#11-advisory--change-management--a-parallel-service-line) | Parallel — all phases | A distinct service line beyond technical implementation |
 
 ---
 
@@ -331,7 +331,7 @@ assembled at the last minute. We track both across the portfolio.
 
 ---
 
-## Advisory & Change Management — a parallel service line
+## 11. Advisory & Change Management — a parallel service line
 
 ### Overview
 Beyond technical design and platform implementation, partners deliver advisory and
