@@ -1,3 +1,6 @@
+---
+---
+
 # 03 · Delivery Excellence — Deep Dive
 
 > Delivery excellence starts in the sales cycle, not at project kickoff. The work that sets a
@@ -327,4 +330,4 @@ assembled at the last minute. We track both across the portfolio.
 
 ## Opportunities to Strengthen
 Areas to build out next, kept in a companion doc:
-[delivery-excellence-gaps-and-risks.md](delivery-excellence-gaps-and-risks.md)
+[delivery-excellence-gaps-and-risks.md](delivery-excellence-gaps-and-risks.html)

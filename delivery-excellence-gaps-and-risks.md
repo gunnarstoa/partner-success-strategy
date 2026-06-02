@@ -1,6 +1,9 @@
+---
+---
+
 # Delivery Excellence — Opportunities to Strengthen (Future Consideration)
 
-Companion to [delivery-excellence-deep-dive.md](delivery-excellence-deep-dive.md). These are areas
+Companion to [delivery-excellence-deep-dive.md](delivery-excellence-deep-dive.html). These are areas
 to build out next to make the plan even stronger. Parked for later, out of scope for the current
 pass.
 
