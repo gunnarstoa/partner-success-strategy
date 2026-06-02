@@ -146,6 +146,10 @@ them per individual too, so the people actually staffed on a project are credent
 partner. The gate confirms the named team is ready for the work in front of them.
 
 ### Methods
+- Track completion of application blueprints at the individual level — completing the blueprint is
+  how an individual is credentialed on an application.
+- Confirm the individuals who completed the blueprints are the ones actively assigned to the
+  project, not just available on the partner's bench.
 - Roster shared in waves, since the full team often isn't assembled until just before kickoff:
   - Wave 1 (at or near the gate): early-arriving key roles, especially the Solution Architect.
   - Wave 2 (by kickoff): the full roster, validated at the individual level before build starts.
@@ -153,8 +157,9 @@ partner. The gate confirms the named team is ready for the work in front of them
 - _[ to expand ]_
 
 ### Measures
-- Full roster validated at the individual level before kickoff (% of staffed individuals
-  credentialed on the app).
+- Application blueprints completed at the individual level for the named delivery team.
+- Share of project-assigned individuals whose completed blueprints match the application they are
+  staffed on (the people who did the blueprints are the people on the project).
 - _[ to expand ]_
 
 ---
