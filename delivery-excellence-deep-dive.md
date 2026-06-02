@@ -54,13 +54,14 @@ sprint by sprint.
 | 1 | [Front-load into sales](#1-front-load-into-sales--assume-selected) | Pre-project | Engage the likely partner early, "assume selected" |
 | 2 | [Readiness gate (Stage 3→4)](#2-readiness-gate--sales-stage-3--stage-4) | Pre-project (approaching selection) | Gate: enablement + current app + named key roles |
 | 3 | [Scoping accuracy](#3-scoping-accuracy--the-deliverable-of-this-phase) | Pre-project (around selection) | OOTB understanding, design, data mapping, extensions |
-| 4 | [Team validation](#4-team-validation--firm-and-individual-level) | Selection → Start | Firm and individual; roster shared in waves |
+| 4 | [Team validation](#4-team-validation--partner-and-individual-level) | Selection → Start | Partner and individual; roster shared in waves |
 | 5 | [Pre-sales → delivery handoff](#5-pre-sales--delivery-handoff) | Selection → Start | A defined artifact package, not a conversation |
 | 6 | [Project Start](#6-project-start--definition--trigger) | The dividing line | When has the project officially started? |
 | 7 | [Execution → Go-Live](#7-execution--go-live) | Project (execution) | Weekly cadence with CS (+PS); sprints to go-live |
 | 8 | [Post-Go-Live → Expansion](#8-post-go-live--expansion) | Post-go-live | Launch review, training, adoption, expansion |
 | 9 | [Prime/co-prime ladder](#9-prime--co-prime-ladder) | Cross-project | Teaching the playbook across three projects |
 | 10 | [Partner capacity & coverage](#10-partner-capacity--resource-coverage-supply--demand) | Portfolio | Monitor supply and demand; no last-minute staffing |
+| ‖ | [Advisory & change management](#advisory--change-management--a-parallel-service-line) | Parallel — all phases | A distinct service line beyond technical implementation |
 
 ---
 
@@ -137,12 +138,12 @@ from what the application already does rather than a blank sheet.
 
 ---
 
-## 4. Team validation — firm and individual level
+## 4. Team validation — partner and individual level
 
 ### Overview
-We track credentials per application. Today we track them at the firm level, and we want to track
+We track credentials per application. Today we track them at the partner level, and we want to track
 them per individual too, so the people actually staffed on a project are credentialed, not just the
-firm. The gate confirms the named team is ready for the work in front of them.
+partner. The gate confirms the named team is ready for the work in front of them.
 
 ### Methods
 - Roster shared in waves, since the full team often isn't assembled until just before kickoff:
@@ -274,7 +275,7 @@ first project PS shows them the artifacts directly — the content they need, th
 happen, the project checklists, the cadences — until a competent partner is one who has run the full
 playbook start to finish on their own.
 
-> We track this per application, at both the firm and individual level. It also reduces PS effort
+> We track this per application, at both the partner and individual level. It also reduces PS effort
 > per partner over time, which frees PSMs to work at a more strategic level.
 
 | Project | Prime | Co-Prime | What it teaches |
@@ -312,7 +313,7 @@ assembled at the last minute. We track both across the portfolio.
 ### Methods
 - Demand-side monitoring — forecasted projects that will need partner delivery, per application,
   with timing (ties to the Pillar 01 pipeline and coverage ratio).
-- Supply-side monitoring — credentialed partner people available per application, at firm and
+- Supply-side monitoring — credentialed partner people available per application, at partner and
   individual level, including bench depth, utilization, and availability.
 - Capacity planning — match supply to forecasted demand ahead of time, and flag applications where
   supply won't meet demand before it becomes a bottleneck at the gate.
@@ -322,10 +323,42 @@ assembled at the last minute. We track both across the portfolio.
 
 ### Measures
 - Coverage ratio per application — credentialed supply vs. forecasted demand.
-- Bench depth — number of credentialed individuals per application (firm and individual).
+- Bench depth — number of credentialed individuals per application (partner and individual).
 - Bench-based staffing — share of projects staffed from the existing credentialed bench, and the
   lead time between team assembly and project start.
 - Utilization of credentialed people.
+- _[ to expand ]_
+
+---
+
+## Advisory & Change Management — a parallel service line
+
+### Overview
+Beyond technical design and platform implementation, partners deliver advisory and
+change-management services: helping the client shape the operating model, prepare the organization,
+and adopt new ways of working. We treat this as its own service line, credentialed and resourced in
+its own right, not as an add-on to the build.
+
+![Two parallel lanes across one engagement: a technical track and an advisory track running alongside it](assets/advisory-parallel.svg)
+
+> Advisory runs in parallel with the technical track, not as a phase of it. A partner can be strong
+> technically and still need advisory capability, or the reverse, so we track and credential the two
+> separately.
+
+### Methods
+- Operating-model and process advisory — help the client design how they will plan and work, not
+  just configure the application.
+- Change management — stakeholder alignment, communications, and preparing client users for new
+  ways of working.
+- Adoption planning — drive usage and value realization (connects to §8 Post-Go-Live).
+- Credential advisory capability as its own track, separate from technical credentials.
+- Name advisory and change-management roles distinctly in the team roster (see §4).
+- _[ to expand ]_
+
+### Measures
+- Advisory and change-management capability credentialed at the partner and individual level.
+- Share of engagements with a named advisory / change-management role on the team.
+- Adoption and value-realization outcomes (connects to §8).
 - _[ to expand ]_
 
 ---

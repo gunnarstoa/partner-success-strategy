@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arra" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#5b6b7b"/>
+    </marker>
+  </defs>
+  <rect width="900" height="230" fill="#ffffff"/>
+
+  <!-- bracket: one engagement -->
+  <path d="M150,34 C140,34 140,34 140,46 L140,96 C140,108 130,108 120,108 C130,108 140,108 140,120 L140,170 C140,182 140,182 150,182" fill="none" stroke="#9aa7b4" stroke-width="2"/>
+  <text x="86" y="113" fill="#5b6b7b" font-size="13" font-weight="bold" text-anchor="middle">One partner</text>
+  <text x="86" y="131" fill="#5b6b7b" font-size="13" font-weight="bold" text-anchor="middle">engagement</text>
+
+  <!-- technical lane -->
+  <rect x="170" y="34" width="700" height="64" rx="8" fill="#2e6da4"/>
+  <text x="190" y="60" fill="#ffffff" font-size="15" font-weight="bold">TECHNICAL TRACK</text>
+  <text x="190" y="82" fill="#dce8f3" font-size="13">Solution design &#183; platform implementation</text>
+
+  <!-- advisory lane -->
+  <rect x="170" y="118" width="700" height="64" rx="8" fill="#d35400"/>
+  <text x="190" y="144" fill="#ffffff" font-size="15" font-weight="bold">ADVISORY TRACK</text>
+  <text x="190" y="166" fill="#fbe2d2" font-size="13">Operating model &#183; change management &#183; adoption</text>
+
+  <!-- parallel / time axis -->
+  <line x1="170" y1="206" x2="860" y2="206" stroke="#9aa7b4" stroke-width="2" marker-end="url(#arra)"/>
+  <text x="515" y="224" fill="#5b6b7b" font-size="12" text-anchor="middle">Both run in parallel across the engagement</text>
+</svg>
