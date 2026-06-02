@@ -141,9 +141,10 @@ from what the application already does rather than a blank sheet.
 ## 4. Team validation — partner and individual level
 
 ### Overview
-We track credentials per application. Today we track them at the partner level, and we want to track
-them per individual too, so the people actually staffed on a project are credentialed, not just the
-partner. The gate confirms the named team is ready for the work in front of them.
+We credential partners per application through completed application blueprints. Today we track this
+at the partner level, and we want to track it per individual too, so the specific people staffed on a
+project are the ones who completed the blueprints — and the gate confirms that named team is ready
+for the work in front of them.
 
 ### Methods
 - Track completion of application blueprints at the individual level — completing the blueprint is
